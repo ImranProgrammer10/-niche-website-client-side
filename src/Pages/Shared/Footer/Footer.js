@@ -27,7 +27,7 @@ const Footer = () => {
                         <p>CaLeader has been raising the standard of used car retailing with one of the most innovative and reliable used vehicle programmes ever created. A comprehensive range of benefits as standard has evolved over time and, today, drivers can leave the forecourt with total reassurance and peace of mind.</p>
                     </Col>
                 </Row>
-                <div className='text-center'><small>&copy;2021 this site is created by Murad</small></div>
+                <div className='text-center'><small>&copy;2021 this site is created by Imran Mollah</small></div>
             </Container>
         </div>
     );
